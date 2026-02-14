@@ -1,2 +1,4 @@
 ﻿User-agent: *
 Disallow: /
+
+Sitemap: https://sedot-wc-madiun.pages.dev/sitemap-index.xml
